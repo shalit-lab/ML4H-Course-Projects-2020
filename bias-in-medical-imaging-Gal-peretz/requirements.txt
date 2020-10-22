@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+tqdm
+opencv-python
+hdf5storage
+requests
+scipy
