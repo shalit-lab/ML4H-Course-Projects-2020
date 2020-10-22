@@ -1,6 +1,6 @@
 # ML4H Course Projects2020
 
-This repository contains Technion Machine Learning for Healthcare course 2020 students' projects.
+This repository contains Technion Machine Learning for Healthcare course (097248) 2020 students' projects.
 
 ## Dear Students
 Please upload your course project in a specific folder named in the following format: "project's subject - team members' names".
