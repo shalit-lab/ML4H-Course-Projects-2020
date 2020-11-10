@@ -9,7 +9,7 @@ In this work, we propose a Hierarchical ML model for ICU mortality rate predicti
 </p>
 
 ## Paper
-Can be found in Project.pdf **add link**
+Can be found in Project.pdf.
 
 ## Repository 
 * **src** - implementation of all neccesary modules for the project.
